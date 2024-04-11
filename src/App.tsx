@@ -3,7 +3,7 @@ import './App.css'
 import { ListItems } from './components'
 import { BgHeaderDesktop } from './utils/assets'
 import { desaturatedDarkCyan } from './styles/variables'
-import { jobsData } from './utils/data'
+
 
 export interface AppStyle{
   mainContainer:  SxProps,
